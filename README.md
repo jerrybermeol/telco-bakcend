@@ -6,7 +6,7 @@
 
 ## Instalación
 ```bash
-git clone [<repo-url>](https://github.com/jerrybermeol/telco-bakcend.git)
+git clone https://github.com/jerrybermeol/telco-bakcend.git
 cd telco-backend
 python -m venv venv
 source venv/bin/activate  # En macOS/Linux
